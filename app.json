@@ -14,7 +14,7 @@
     },
       "conf_in_url": {
       "description": "rclone.conf in raw url form",
-      "value": "dev@gmail.com"
+      "value": "http://raw.gist.../rclone.conf"
     }
 
 
