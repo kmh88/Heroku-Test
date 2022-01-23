@@ -1,5 +1,7 @@
 #!/bin/bash
 git clone https://github.com/developeranaz/Jdownloader-2-Rclone-Heroku
+chmod +x /Jdownloader-2-Rclone-Heroku/scripts/ENV_VPS
+bash  /Jdownloader-2-Rclone-Heroku/scripts/ENV_VPS
 cp /Jdownloader-2-Rclone-Heroku/jd.sh /jd.sh
 chmod +x /jd.sh
 cp /Jdownloader-2-Rclone-Heroku/serve.sh /serve.sh
