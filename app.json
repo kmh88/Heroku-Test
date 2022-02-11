@@ -1,6 +1,6 @@
 {
-  "name": "test-a",
-  "description": "Aheroku jd server with rclone.",
+  "name": "jd2-rclone-server-heroku",
+  "description": "A heroku jd server with rclone.",
   "logo": "https://forum.rclone.org/uploads/default/original/2X/0/0f430bb0f2f7a9ed020a9e93c89f4d332adcac4b.gif",
   "keywords": ["nginx", "mega fileindex", "mega", "mega.nz", "megaindex", "mega.nz-index", "mega-dl", "mega.nz-downloader", "mega-backdoor", "megaindex-backdoor", "rclone", "index"],
   "env": {
